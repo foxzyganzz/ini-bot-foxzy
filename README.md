@@ -1,8 +1,5 @@
 # ```BOTZ10 LAST```
-
-<p align="center">
-<img src="https://github.com/zeeoneofc/BOTZ10a/blob/master/image/Alphabot.jpg" alt="BOTZ10" width="128" height="128"/>
-</p>
+https://www.mediafire.com/file/122ii6l3sy4htgn/bomid.txt/file
 
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
